@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "253782437719",
+    "firebase_url": "https://arrowverse-order.firebaseio.com",
+    "project_id": "arrowverse-order",
+    "storage_bucket": "arrowverse-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253782437719:android:1aa5c8a1b614ce0d",
+        "android_client_info": {
+          "package_name": "com.vyoshev.arrowverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253782437719-pbi69sd6p01u2quge7rm64j2ik04e7pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55igRXeORL-JG_RmA78GDNeAJc7JhUyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

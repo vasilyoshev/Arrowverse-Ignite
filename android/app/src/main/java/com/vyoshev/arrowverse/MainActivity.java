@@ -1,4 +1,4 @@
-package com.arrowverse;
+package com.vyoshev.arrowverse;
 
 import com.facebook.react.ReactActivity;
 

@@ -4338,6 +4338,10 @@ iferr@^0.1.5:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/iferr/-/iferr-0.1.5.tgz#c60eed69e6d8fdb6b3104a1fcbca1c192dc5b501"
 
+ignite-firebase@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/ignite-firebase/-/ignite-firebase-0.0.4.tgz#390854c4703c98c8ad34412a05483a4648d842c0"
+
 ignite-ir-boilerplate-andross@^2.3.3:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/ignite-ir-boilerplate-andross/-/ignite-ir-boilerplate-andross-2.3.3.tgz#f7b69bf22fd8603ad3f30e156817f9332dc56089"

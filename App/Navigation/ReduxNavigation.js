@@ -6,12 +6,12 @@ import { connect } from 'react-redux'
 import AppNavigation from './AppNavigation'
 
 class ReduxNavigation extends React.Component {
-  componentWillMount () {
+  componentDidMount () {
     if (Platform.OS === 'ios') return
     BackHandler.addEventListener('hardwareBackPress', () => {
       const { dispatch, nav } = this.props
       // change to whatever is your first screen, otherwise unpredictable results may occur
-      if (nav.routes.length === 1 && (nav.routes[0].routeName === 'SeriesListView')) {
+      if (nav.routes.length === 1 && (nav.routes[0].routeName === 'SeriesView')) {
         return false
       }
       // if (shouldCloseApp(nav)) return false

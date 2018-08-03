@@ -1,11 +1,11 @@
 import { StackNavigator } from 'react-navigation'
-import SeriesListView from '../Containers/SeriesListView'
+import SeriesView from '../Containers/SeriesView'
 
 import styles from './Styles/NavigationStyles'
 
 // Manifest of possible screens
 const PrimaryNav = StackNavigator({
-  LaunchScreen: { screen: SeriesListView }
+  LaunchScreen: { screen: SeriesView }
 }, {
   // Default config for all screens
   headerMode: 'none',
